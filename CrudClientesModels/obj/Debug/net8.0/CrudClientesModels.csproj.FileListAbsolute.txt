@@ -1,0 +1,11 @@
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\bin\Debug\net8.0\CrudClientesModels.deps.json
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\bin\Debug\net8.0\CrudClientesModels.dll
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\bin\Debug\net8.0\CrudClientesModels.pdb
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.AssemblyInfo.cs
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.dll
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\refint\CrudClientesModels.dll
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\CrudClientesModels.pdb
+C:\Users\vinic\source\repos\CrudClientes\CrudClientesModels\obj\Debug\net8.0\ref\CrudClientesModels.dll

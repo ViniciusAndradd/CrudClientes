@@ -1,0 +1,6 @@
+@CrusClientesApi_HostAddress = http://localhost:5276
+
+GET {{CrusClientesApi_HostAddress}}
+Accept: application/json
+
+###
