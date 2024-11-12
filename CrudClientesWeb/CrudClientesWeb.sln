@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudClientesWeb", "CrudClientesWeb.csproj", "{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudClientesWeb", "CrudClientesWeb.csproj", "{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudClientesApi", "..\CrusClientesApi\CrudClientesApi.csproj", "{73380288-85B5-418A-AA53-CF39029CC550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudClientesApi", "..\CrusClientesApi\CrudClientesApi.csproj", "{73380288-85B5-418A-AA53-CF39029CC550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudClientesModels", "..\CrudClientesModels\CrudClientesModels.csproj", "{A2C05A20-8F06-45E0-8154-CFC93909F18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudClientesModels", "..\CrudClientesModels\CrudClientesModels.csproj", "{A2C05A20-8F06-45E0-8154-CFC93909F18D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqA2QNQ+FNw=",
+  "dgSpecHash": "EE5PFO12lq0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
@@ -28,12 +28,12 @@
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.jsinterop\\8.0.7\\microsoft.jsinterop.8.0.7.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.7\\microsoft.jsinterop.webassembly.8.0.7.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.7\\microsoft.net.sdk.webassembly.pack.8.0.7.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.10\\microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.10\\microsoft.net.sdk.webassembly.pack.8.0.10.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.7.nupkg.sha512"
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }
