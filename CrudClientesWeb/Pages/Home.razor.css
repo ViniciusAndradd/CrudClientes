@@ -1,0 +1,22 @@
+﻿.campoDados{
+    padding:0;
+}
+
+input{
+    width:100%;
+}
+
+button{
+    margin-top:15px;
+}
+
+td{
+    text-align:center;
+    border:1px solid black;
+    width:50%;
+}
+
+table{
+    margin-top:15px;
+}
+

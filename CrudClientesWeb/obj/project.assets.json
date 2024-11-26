@@ -422,7 +422,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.10": {
+      "Microsoft.NET.ILLink.Tasks/8.0.0": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -924,7 +924,7 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.10": {
+      "Microsoft.NET.ILLink.Tasks/8.0.0": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -1811,10 +1811,10 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.10": {
-      "sha512": "xT8jYjlroY7SLbGtoV9vUTVW/TPgodL4Egc31a444Xe0TMytLZ3UlKQ0kxMZsy/CrWsFB6wtKnSG1SsXcWreew==",
+    "Microsoft.NET.ILLink.Tasks/8.0.0": {
+      "sha512": "B3etT5XQ2nlWkZGO2m/ytDYrOmSsQG1XNBaM6ZYlX5Ch/tDrMFadr0/mK6gjZwaQc55g+5+WZMw4Cz3m8VEF7g==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.10",
+      "path": "microsoft.net.illink.tasks/8.0.0",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1828,7 +1828,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -2080,29 +2080,24 @@
       "CrudClientesModels >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.7",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.7",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.10",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.0",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.10"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vinic\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vinicius.andrade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
       "projectName": "CrudClientesWeb",
-      "projectPath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
-      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\obj\\",
+      "projectPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
+      "packagesPath": "C:\\Users\\vinicius.andrade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vinicius.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2110,15 +2105,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
-              "projectPath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj"
+            "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
+              "projectPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj"
             }
           }
         }
@@ -2127,11 +2121,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2150,7 +2139,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.10, )",
+            "version": "[8.0.0, )",
             "autoReferenced": true
           },
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
@@ -2182,7 +2171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

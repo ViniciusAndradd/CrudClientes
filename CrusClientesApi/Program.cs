@@ -1,6 +1,7 @@
 using CrudClientesApi.Context;
 using CrudClientesApi.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,9 +17,16 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Este é o registro do serviço dos repositórios
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
+app.UseCors(policy =>
+    policy.WithOrigins("https://localhost:7270", "https://localhost:7270")
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    .WithHeaders(HeaderNames.ContentType)
+);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
