@@ -1,7 +1,55 @@
 ﻿@page "/"
+@using CrudClientesWeb.Services;
+@using CrudClientesModels.DTOs;
+@inject IClienteService clienteService;
 
 <PageTitle>Home</PageTitle>
 
-<h1>Cadastro de Clientes</h1>
+<div class="container conteudo">
+    <h1>Cadastro de Clientes</h1>
+    <div class="row">
+        <div class="col-lg-6 campoDados">
+            <input class="form-control" type="text" placeholder="Nome" />
+        </div>
+        <div class="col-lg-6 campoDados">
+            <input class="form-control" type="text" placeholder="Telefone" />
+        </div>
+        <button class="col-lg-12 btn btn-success" style="border-top: 15px;">Cadastrar</button>
+        <table class="col-lg-12" style="border:1px solid black">
+            <thead>
+                <tr>
+                    <td><b>NOME</b></td>
+                    <td><b>TELEFONE</b></td>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Clientes == null)
+                {
+                    <h6>Carregando Clientes...</h6>
+                }
+                else
+                {
+                    foreach (var cliente in Clientes)
+                    {
+                        <tr>
+                            <td>@cliente.Nome.ToString()</td>
+                            <td>@cliente.Telefone.ToString()</td>
+                        </tr>
+                    }
+                }
 
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+@code {
+    public IEnumerable<ClienteDto>? Clientes { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Clientes = await clienteService.GetClientes();
+    }
+}
 

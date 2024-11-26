@@ -1,4 +1,5 @@
 using CrudClientesWeb;
+using CrudClientesWeb.Services;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -13,5 +14,7 @@ builder.Services.AddScoped(sp => new HttpClient
 { 
     BaseAddress = new Uri(baseUrl) 
 });
+
+builder.Services.AddScoped<IClienteService, ClienteService>();
 
 await builder.Build().RunAsync();

@@ -1,23 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\obj\\Debug\\net8.0\\compressed\\ka6ebl0c08.gz",
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\obj\\Debug\\net8.0\\compressed\\16yjspiojt.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CrudClientesWeb.styles.css",
+      "PackagePath": "staticwebassets\\CrudClientesWeb.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\wwwroot\\index.html",
+      "Id": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

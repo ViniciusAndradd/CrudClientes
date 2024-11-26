@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj": {}
+    "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
+    "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj",
         "projectName": "CrudClientesModels",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj",
-        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\obj\\",
+        "projectPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj",
+        "packagesPath": "C:\\Users\\vinicius.andrade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vinicius.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj": {
+    "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
         "projectName": "CrudClientesWeb",
-        "projectPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
-        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\obj\\",
+        "projectPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\CrudClientesWeb.csproj",
+        "packagesPath": "C:\\Users\\vinicius.andrade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vinicius.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,15 +77,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
-                "projectPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj"
+              "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj": {
+                "projectPath": "C:\\Users\\vinicius.andrade\\Source\\Repos\\ViniciusAndradd\\CrudClientes\\CrudClientesModels\\CrudClientesModels.csproj"
               }
             }
           }
@@ -108,11 +93,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -131,13 +111,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.0, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.10, )",
               "autoReferenced": true
             }
           },
@@ -155,7 +135,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.7, 8.0.7]"
+              "version": "[8.0.10, 8.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -163,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

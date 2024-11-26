@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudClientesApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9aeb6774a0e6fa01ab393a9d23f0e6731a3399c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudClientesApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudClientesApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

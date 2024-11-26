@@ -9,27 +9,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudClientesWeb_-_Backup
 build_property.RootNamespace = CrudClientesWeb_-_Backup
-build_property.ProjectDir = C:\Users\vinic\Source\Repos\ViniciusAndradd\CrudClientes\CrudClientesWeb\
+build_property.ProjectDir = C:\Users\vinicius.andrade\source\repos\ViniciusAndradd\CrudClientes\CrudClientesWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vinic\Source\Repos\ViniciusAndradd\CrudClientes\CrudClientesWeb
+build_property.MSBuildProjectDirectory = C:\Users\vinicius.andrade\source\repos\ViniciusAndradd\CrudClientes\CrudClientesWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vinic/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/App.razor]
+[C:/Users/vinicius.andrade/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinic/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/Layout/MainLayout.razor]
+[C:/Users/vinicius.andrade/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinic/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vinic/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/_Imports.razor]
+[C:/Users/vinicius.andrade/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vinicius.andrade/Source/Repos/ViniciusAndradd/CrudClientes/CrudClientesWeb/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-so7pc0bph9

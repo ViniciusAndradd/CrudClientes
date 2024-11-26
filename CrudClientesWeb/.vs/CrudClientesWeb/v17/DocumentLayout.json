@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|c:\\users\\vinic\\source\\repos\\crudclientes\\crudclientesweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\crudclientes\\crudclientesweb\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|c:\\users\\vinic\\source\\repos\\crudclientes\\crudclientesweb\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\crudclientes\\crudclientesweb\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\crudclientes\\crudclientesweb\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A4D4E5EF-D3C8-46DB-8A5F-B4CF2EBF9A2D}|CrudClientesWeb.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-12T22:23:59.421Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\Pages\\Home.razor",
               "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T17:59:13.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\CrudClientes\\CrudClientesWeb\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\CrudClientes\\CrudClientesWeb\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T17:58:26.854Z",
               "EditorCaption": ""
